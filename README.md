@@ -1,2 +1,3 @@
 # Generative Art - Epicenter
-Generated lines spawning from an epicenter.
+
+Comissioned work, part of my generative coding project series.
